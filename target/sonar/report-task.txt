@@ -1,0 +1,7 @@
+organization=yumilr
+projectKey=yumilr_shell-sort2
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.22312
+dashboardUrl=https://sonarcloud.io/dashboard?id=yumilr_shell-sort2
+ceTaskId=AXsadoliIQjQ08t9M2qA
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXsadoliIQjQ08t9M2qA
